@@ -10,8 +10,10 @@ It represents the harmonic interference of two rotating vectors. One spins with 
 
 ## 🎥 Preview
 
-→ Add your `spiral_pi_animation.mp4` file here  
-→ Optionally add a screenshot too
+![Spiral Screenshot](screenshot.png)
+
+[▶️ Watch the animation](spiral_pi_animation.mp4)
+
 
 ## 🧠 Tech Stack
 
