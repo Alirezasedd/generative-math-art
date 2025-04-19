@@ -11,9 +11,14 @@ It represents the harmonic interference of two rotating vectors. One spins with 
 
 ## 🎥 Preview
 
+### 🌀 Live Spiral Preview (.gif)
+![Spiral Animation](spiral_pi_animation.gif)
+
+### 📸 Static Screenshot
 ![Spiral Screenshot](screenshot.png)
 
-[▶️ Watch the animation](spiral_pi_animation.mp4)
+### 🎬 Full Animation
+[▶️ Click here to watch the full `.mp4` animation](spiral_pi_animation.mp4)
 
 
 ## 🧠 Tech Stack
