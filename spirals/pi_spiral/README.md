@@ -8,6 +8,7 @@ z(θ) = e^{iθ} + e^{iπθ}
 
 It represents the harmonic interference of two rotating vectors. One spins with angle θ, and the other spins π times faster. Their sum forms a mesmerizing spiral pattern.
 
+
 ## 🎥 Preview
 
 ![Spiral Screenshot](screenshot.png)
